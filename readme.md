@@ -7,3 +7,7 @@ https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-
 https://learn.chatgpt.com/docs/image-generation
 
 https://learn.chatgpt.com/docs/image-inputs
+
+https://learn.chatgpt.com/docs/image-inputs
+
+https://learn.chatgpt.com/docs/image-generation
